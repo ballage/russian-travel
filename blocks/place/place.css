@@ -9,7 +9,7 @@
 
     grid-template-areas:
     "p-title p-url"
-    "p-image p-text"
+    "p-image p-text";
 
 
 }
@@ -44,7 +44,7 @@
     "p-title"
     "p-url"
     "p-image"
-    "p-text"
+    "p-text";
                     
     }
 } 
