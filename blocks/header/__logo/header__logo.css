@@ -3,6 +3,7 @@
     background-size: cover;
     width: 176px;
     height: 52px;
+    transition: .5s ease-in-out;
 }
 
 @media screen and (max-width: 767px) {

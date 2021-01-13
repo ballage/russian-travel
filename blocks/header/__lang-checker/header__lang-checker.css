@@ -1,4 +1,10 @@
 .header__lang-checker {
+    margin: 0;
+    padding: 0;
     font-size: 0;
-    margin-bottom: 6px;
+    
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 18px;
 }
