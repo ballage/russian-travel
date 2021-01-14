@@ -38,8 +38,7 @@
 @import url(../blocks/place/__text/place__text.css); 
 @import url(../blocks/place/__paragraph/place__paragraph.css); 
 
-@import url(../blocks/cover/cover.css); /* поезда */
-@import url(../blocks/cover/__overlay/cover__overlay.css); 
+@import url(../blocks/cover/__overlay/cover__overlay.css); /* поезда */
 @import url(../blocks/cover/__title/cover__title.css); 
 @import url(../blocks/cover/__subtitle/cover__subtitle.css); 
 
@@ -48,3 +47,4 @@
 @import url(../blocks/footer/__link/footer__link.css); 
 @import url(../blocks/footer/__copyright/footer__copyright.css); 
 
+.bv {border: 1px solid red;}
